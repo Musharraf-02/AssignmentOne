@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kids Learning App</string>
+    <string name="mainMenu">Main Menu</string>
+    <string name="remember">Can you remember them all?</string>
+    <string name="alphabetsBtn">Alphabets</string>
+    <string name="countingBtn">Counting</string>
+    <string name="colorsBtn">Colors</string>
+</resources>
